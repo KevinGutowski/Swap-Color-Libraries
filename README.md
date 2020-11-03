@@ -1,6 +1,6 @@
 # SwapColorLibraries
 
-![example of plugin](../imgs/example.gif)
+![example of plugin](./imgs/example.gif)
 
 ## Installation
 
