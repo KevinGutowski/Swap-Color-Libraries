@@ -1,4 +1,4 @@
-# SwapColorLibraries
+# Swap Color Libraries
 Change all your colors in a document to point to a different library using the same color variable names.
 
 ![example of plugin](./imgs/example.gif)
