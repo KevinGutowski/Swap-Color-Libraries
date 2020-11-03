@@ -1,5 +1,7 @@
 # SwapColorLibraries
 
+![example of plugin](../imgs/example.gif)
+
 ## Installation
 
 - [Download](../../releases/latest/download/swapcolorlibraries.sketchplugin.zip) the latest release of the plugin

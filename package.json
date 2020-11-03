@@ -23,5 +23,9 @@
   "devDependencies": {
     "@skpm/builder": "^0.7.0"
   },
-  "author": "Kevin Gutowski <kskiviolin@gmail.com>"
+  "author": "Kevin Gutowski <kskiviolin@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KevinGutowski/Swap-Color-Libraries"
+  }
 }
